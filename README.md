@@ -1,6 +1,5 @@
 # badmintlog
 Badminton Training and Performance Notes
-Inspiration: This app was inspired by my badminton training habits that are often not well documented. With this app, I can record my training schedule, performance records, and personal goals, so I can track my progress and stay motivated.
 
 ## Description
 This application is inspired by my personal experience as a badminton player. I frequently train, but rarely keep track of my progress in a structured way. Therefore, I created "BadmintLog" to help log technical and physical training sessions, as well as performance metrics over time.
