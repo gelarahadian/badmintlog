@@ -2,7 +2,7 @@ from models.latihan import TechnicalTraining, PhysicalTraining
 from models.performa import PerformanceRecord
 from models.user import User
 
-user = User("Badminton Player")
+user = User("Gelar Rahadian Fajar")
 user.load_from_file("data/training.json")
 
 while True:

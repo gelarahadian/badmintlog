@@ -1,0 +1,22 @@
+{
+    "trainings": [
+        {
+            "date": "2025-06-23",
+            "duration": 20,
+            "skill_type": "smash"
+        },
+        {
+            "date": "2025-06-20",
+            "duration": 12,
+            "focus": "stamina"
+        }
+    ],
+    "performances": [
+        {
+            "date": "2025-06-23",
+            "stamina": 6,
+            "accuracy": 7,
+            "notes": "-"
+        }
+    ]
+}

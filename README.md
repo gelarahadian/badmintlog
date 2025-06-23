@@ -32,7 +32,7 @@ badmintlog/
 ```
 
 ## Demo
-[Demo YouTube Link](https://youtube.com/your-demo-here)
+[Demo YouTube Link](https://youtu.be/oZ2DpRb1cXg)
 
 ---
 
